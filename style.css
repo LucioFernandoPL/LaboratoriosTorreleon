@@ -1,0 +1,39 @@
+.navbar-light{
+    background: #17a2b8;
+}
+
+.navbar-text{
+    color: black;
+}
+
+.txt-menu {
+    color: #FF0080;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.menu-desplegar{
+    background: #FFc0cb;
+    color: #FF0080;
+}
+
+.txt-menudesp {
+    color: #FF0080;
+    font-size: 18px;
+}
+
+.txt-carousel {
+    color: #000000;
+}
+
+.txt-carousel2 {
+    color: #000000;
+    font-size: 20px;
+}
+
+.display-4 {
+    text-align: center;
+    color: #FF0080;
+    background: #17a2b8;
+}
+
